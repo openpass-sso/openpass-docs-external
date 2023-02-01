@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode
+
+# extrafiles
+api/v1/sdks/images/openpass_sdk_js_window_onload.jpg
+
+# futuredev
+api/v1/guides/README.md
+
+# node
+node_modules
+
+# Docs generation
+.temp
+sdks/openpass-js-sdk/api-reference-temp.md
+
+# MacOS
+.DS_Store
